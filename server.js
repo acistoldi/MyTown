@@ -6,7 +6,6 @@ var cookieParser = require('cookie-parser');
 var flash = require('connect-flash');
 var env = require('dotenv').load();
 
-
 var PORT = process.env.PORT || 3000;
 // Requiring our models for syncing
 var db = require("./models");
