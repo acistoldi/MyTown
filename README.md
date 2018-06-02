@@ -2,6 +2,10 @@
 
 My town lets you conveniently look at current events going on in your city all in one place instead of going different to sites.
 
+Link to deployed app: https://pacific-earth-35194.herokuapp.com/
+
+![My Town](/public/images/screenshot.PNG)
+
 # Fun Things Around Town 
 
 This section is reserved for places in your city that is always going on. Users with accounts are able to post such places for others to see and check out! 
